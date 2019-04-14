@@ -24,3 +24,9 @@
 * [996 vs 11-5-5](https://www.zhihu.com/question/319774219/answer/649986978)
 
 ![intel](./images/intel.jpg)
+
+## 微信小程序
+
+目前，11-5-5 工作 Style 的公司也放在了 [955.WLB](https://github.com/formulahendry/955.WLB) 不加班公司白名单中。 为方便用户在手机端访问，可通过 [955WLB](https://github.com/formulahendry/weapp-955-wlb) 微信小程序实时查看 955 公司名单。
+
+![qr](./images/weapp-qr.jpg)
