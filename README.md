@@ -16,12 +16,21 @@
 
 ## 944 Style
 
-* [上海三大 IT 养老院 ( IBM, Intel, EMC ) 的故事](https://www.zhihu.com/question/38934808/answer/588953577)
+* [955.WLB 是中性词！944.Life 也许才可能算是“养老”吧？](https://zhuanlan.zhihu.com/p/535054060)
 * [996 vs 11-5-5](https://www.zhihu.com/question/319774219/answer/649986978)
-* [微软给所有员工加了 5 天假期！我今年还剩 41.5 天年假。](https://mp.weixin.qq.com/s/t6Ck3c75pB5SsrdrNd4kjg)
+* [英国开始试验一周工作四天！不减薪！](https://mp.weixin.qq.com/s/NSX5UrnGjZeh6Y4_eAcs8A)
+* [冰岛试行四天工作制大获成功：周工作时间缩短五小时，生产力没变！](https://mp.weixin.qq.com/s/QFkbhEChsh5ymTfmEQCZjg)
+* [社科院曾建议 2030 年起每周休3天](https://mp.weixin.qq.com/s/PWa5E6MkEojv72EYWf_liw)
+* [上海三大 IT 养老院 ( IBM, Intel, EMC ) 的故事](https://www.zhihu.com/question/38934808/answer/588953577)
+* [Intel，有效工作时间在5小时以内？](https://mp.weixin.qq.com/s/dhgZpQ82_uMnJDTagylQOA)
 * [微软日本公布“上四休三”新工作制结果：员工效率提高40%](https://mp.weixin.qq.com/s/G0GhpfJc_LaWiLeDfytaig)
-* [955 变 953！](https://mp.weixin.qq.com/s/53CG0QDw41N7n02vjOwV2g)
 * [据说 PayPal 也要实行大小周了！一周休 2 天，一周休 3 天？](https://mp.weixin.qq.com/s/5z5mxFoXrsLc4b7tH-ejkw)
+* [Booking 四天工作制一个月](https://mp.weixin.qq.com/s/JzVFFmAE1lqcrxYjbZR1KQ)
+* [Tubi 每个月送一天的 mental health holiday](https://mp.weixin.qq.com/s/oRg319Y5OAWehII9eevb8Q)
+* [乐视：励志上班四天半！](https://mp.weixin.qq.com/s/-5cLxaHFxF8clM4W0jAkqA)
+* [微软给所有员工加了 5 天假期！我今年还剩 41.5 天年假。](https://mp.weixin.qq.com/s/t6Ck3c75pB5SsrdrNd4kjg)
+* [NVIDIA 宣布给员工额外再送 8 天带薪假期！每年假期 23 天起！](https://mp.weixin.qq.com/s/e4_6UzZY1pAo_t4uSH3TOg)
+* [955 变 953！](https://mp.weixin.qq.com/s/53CG0QDw41N7n02vjOwV2g)
 
 ![intel](./images/intel.jpg)
 
